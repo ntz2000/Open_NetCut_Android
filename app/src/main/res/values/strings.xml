@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Open_NetCut</string>
+    <string name="error">Error</string>
+    <string name="wifi_went_down">No wifi</string>
+    <string name="cancel_dialog">Cancel</string>
+    <string name="network_subnet_mask">Main</string>
+    <string name="gateway_router">Modem</string>
+    <string name="this_device">Your Device</string>
+
+</resources>
