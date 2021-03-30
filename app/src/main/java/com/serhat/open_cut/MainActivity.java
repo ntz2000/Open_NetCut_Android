@@ -1,7 +1,6 @@
 package com.serhat.open_cut;
 
 
-
 import android.app.ListActivity;
 import android.app.ProgressDialog;
 import android.content.BroadcastReceiver;
